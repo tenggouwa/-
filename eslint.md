@@ -1,0 +1,1 @@
+https://alloyteam.github.io/eslint-config-alloy/
