@@ -22,3 +22,6 @@
 + JS规范
 + Eslint规范
 + 未完待续。。。。
++ https://www.jianshu.com/p/a17c3555aa4e
++ https://blog.csdn.net/yunqiinsight/article/details/81280791
++ https://alloyteam.github.io/eslint-config-alloy/
